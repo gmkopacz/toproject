@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logowanie poprawnymi danymi na stronie https://www.demoblaze.com/</description>
+   <name>TC - logowanie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc9ffea2-3698-4bec-b9da-b2b141ae17ee</testCaseGuid>
+</TestCaseEntity>
