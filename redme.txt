@@ -1,0 +1,3 @@
+Projekt na zaliczenie laboratoriów z Testowania Oprogramowania
+TestLink: Plan testowy 7170
+Mantis: 7170
